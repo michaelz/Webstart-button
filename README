@@ -1,0 +1,1 @@
+Bash script to automatically start and stop Apache2 and MySQL services with Debian/Ubuntu and other compatible Linux distributions. Uses graphical interaction with zenity. 
